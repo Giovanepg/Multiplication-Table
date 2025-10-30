@@ -59,7 +59,7 @@ Contém toda a **lógica de cálculo e interação** da aplicação.
 
 ### 📦 Estrutura de Pastas
 
-<img src="/static/img/capCaptura de tela 2025-10-30 181807.png" alt="">
+<img src="/static/img/Estrutura de pasta.png" alt="">
 
 ---
 
